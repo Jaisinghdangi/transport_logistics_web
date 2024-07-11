@@ -1,0 +1,38 @@
+
+---------- interview quetions -----------
+1.difference between self & $this -done
+2. union and union all - done 
+3. php array function 
+4. what is traits - done
+5. joins and it's type in deep with example 
+6. some aggrigate functions in mysql 
+7. PDO in php -
+8. prepare function and prepare statement - done
+9. how can i overwrite the helper function - done
+10. php and mysql advanced topics
+11. get extention of a file using predefine function - pathinfo() it's return the array of file information
+12. how can i create json string using php without using json_encode() - done (manually)
+13. json_encode - done (4 parms)
+14. json_decode - done (1 parms)
+15. triggers in sql - done
+16. prepare function in php mysqli & pdo  - done
+
+select table1.colmn , table2.column from table1 left join table2 on table1.p_id = table2.id
+
+columns
+    id
+    input_name
+    user_id 
+    form_id 
+tables
+    id
+    column_id
+    value
+
+---------- my quetions ---------
+1. office timing
+2. pf and tds
+3. working days
+4. holidays
+5. salary credit date
+6. how many employyes in your company 52
